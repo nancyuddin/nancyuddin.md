@@ -1,4 +1,8 @@
-
+---
+title: HOME
+layout: minima
+filename: README.md 
+--- 
 
 
 <h1 align="center">Hi friends, I'm Nancy :yellow_heart:</h1>
